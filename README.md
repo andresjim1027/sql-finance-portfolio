@@ -8,7 +8,7 @@
  
 ## About This Portfolio
  
-I'm a senior financial analyst building SQL as a core skill to complement my FP&A background. This portfolio demonstrates SQL applied to real finance problems — not toy exercises. Every project mirrors a deliverable I would produce at work: variance reports, trend analysis, headcount modeling, and executive dashboard feeds.
+I'm a senior financial analyst building SQL as a core skill to complement my current background. This portfolio demonstrates SQL applied to real finance problems — not toy exercises. Every project mirrors a deliverable I would produce at work: variance reports, trend analysis, headcount modeling, and executive dashboard feeds.
  
 **Tools used:** SQL (SQLite) · DB Browser for SQLite · Excel · Power BI
  
