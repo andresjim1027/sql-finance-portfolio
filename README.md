@@ -107,7 +107,7 @@ I'm a senior financial analyst building SQL as a core skill to complement my FP&
  
 ## Connect
  
-- 💼 [LinkedIn](https://www.linkedin.com/in/andresjim1027)
+- 💼 [LinkedIn](https://www.linkedin.com/in/andresjim)
 - 📧 Available on request
 ---
  
